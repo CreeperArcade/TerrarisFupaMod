@@ -1,0 +1,3 @@
+displayName = THE ULTIMATE FUPA MOD
+author = DavidBoss
+version = 0.11
